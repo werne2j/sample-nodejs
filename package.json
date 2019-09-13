@@ -1,0 +1,19 @@
+{
+  "name": "sample-nodejs",
+  "version": "1.0.0",
+  "description": "Sample NodeJS App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/werne2j/sample-nodejs.git"
+  },
+  "author": "Jake Wernette",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/werne2j/sample-nodejs/issues"
+  },
+  "homepage": "https://github.com/werne2j/sample-nodejs#readme"
+}
